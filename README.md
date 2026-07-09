@@ -67,22 +67,6 @@ Customer Segmentation
 
 ---
 
-## Project Structure
-
-```
-customer-personality-segmentation/
-│
-├── notebook.ipynb
-├── README.md
-├── requirements.txt
-├── dataset/
-│   └── customer_personality.csv
-├── images/
-└── LICENSE
-```
-
----
-
 ## Results
 
 This project successfully:
